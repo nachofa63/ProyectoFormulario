@@ -1,0 +1,76 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Trad+Guides&display=swap');
+
+body
+{
+    font-family: Arial;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+nav
+{
+    background-color: #555;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a
+{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main
+{
+    padding: 20px;
+}
+
+form
+{
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+label
+{
+    display: block;
+    margin-top: 10px;
+}
+
+input
+{
+    width: 100%;
+    padding: 5px;
+}
+
+button
+{
+    margin-top: 15px;
+    width: 100%;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    border: none;
+}
+
+#mensaje
+{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 15px;
+}
